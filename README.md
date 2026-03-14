@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy [Tu Nombre/Nickname] 👋</h1>
+<h1 align="center">¡Hola! Soy Alex 👋</h1>
 
 <h3 align="center">Desarrollador/a apasionado/a creando soluciones increíbles</h3>
 

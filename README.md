@@ -28,9 +28,9 @@
 ### 📊 Mis Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario-de-github&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zafiro2004&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario-de-github&theme=radical&hide_border=true" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zafiro2004&theme=radical&hide_border=true" alt="Racha de contribuciones" />
 </div>
 
 ---

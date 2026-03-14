@@ -13,7 +13,6 @@
 * 🔭 Actualmente estudiando en **Francesc de Borja Moll**
 * 🌱 Aprendiendo y profundizando en **Java** y **Python**
 * 📝 Organizando mis apuntes y arquitectura con **Obsidian** y diagramas **Mermaid**.
-* 💬 Pregúntame sobre **[Temas en los que eres experto, ej. Python, diseño de bases de datos]**
 * ⚡ Dato curioso: **Me encanta picar código y odio los diagramas**
 
 ### 💻 Stack Tecnológico

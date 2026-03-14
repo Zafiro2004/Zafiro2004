@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! Soy Alex 👋</h1>
 
-<h3 align="center">Desarrollador/a apasionado/a creando soluciones increíbles</h3>
+<h3 align="center">Desarrollador apasionado creando soluciones increíbles</h3>
 
 <p align="center">
   <a href="mailto:[alexdediospallicer@gmail.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
